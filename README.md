@@ -11,6 +11,15 @@ It analyzes **daily sales data**, detects **demand trends**, generates **stockin
 
 ---
 
+## 🌐 Live Demo
+
+You can try the live deployed app here:
+
+👉 https://pharma-demand-signal-agentic.onrender.com
+
+Upload a store-wise pharmacy sales CSV to generate a real-time Demand Signal Report.
+
+
 ## 🚀 What This System Does
 
 Given a CSV with **store-wise daily pharmacy sales**, the system:
